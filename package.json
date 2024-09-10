@@ -1,6 +1,6 @@
 {
   "name": "chronify",
-  "version": "1.0.0",
+  "version": "1.x.x",
   "description": "Chronify calculates and displays human-readable time differences between dates, with customizable formats.",
   "main": "index.js",
   "bin": {
