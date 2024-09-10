@@ -1,0 +1,45 @@
+{
+  "name": "chronify",
+  "version": "1.0.0",
+  "description": "Chronify calculates and displays human-readable time differences between dates, with customizable formats.",
+  "main": "index.js",
+  "bin": {
+    "chronify": "index.js"
+  },
+  "keywords": [
+    "npm",
+    "dependency",
+    "package manager",
+    "update",
+    "install",
+    "uninstall",
+    "version",
+    "outdated",
+    "missing",
+    "multiple",
+    "node",
+    "nodejs",
+    "command-line",
+    "cli",
+    "developer tools",
+    "productivity",
+    "workflow",
+    "maintenance",
+    "audit",
+    "security",
+    "performance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alpha5959/chronify.git"
+  },
+  "author": "xkroenen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alpha5959/chronify/issues"
+  },
+  "homepage": "https://github.com/Alpha5959/chronify#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
